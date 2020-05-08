@@ -1,3 +1,4 @@
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Avishekbhattacharjee/baymax.git)
 ### Baymax, a simple telegram bot framework on top of Python asyncio
 
 Work in progress
